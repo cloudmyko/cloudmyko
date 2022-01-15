@@ -15,7 +15,7 @@
 def monzo(weeb):
   form = Year 10
   languages = Python | Bit of JS | Some C#
-  GCSEs = Computer Science | Higher Maths | Triple Science ...
+  subjects = Computer Science | Higher Maths | Triple Science ...
   interests = Anime | Gaming | Football | Music
 ```
 [![Monzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysmonzo)](https://github.com/alwaysmonzo/github-readme-stats)
