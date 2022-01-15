@@ -22,4 +22,4 @@ def monzo(weeb):
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@alwaysmonzo](https://github.com/alwaysmonzo)
