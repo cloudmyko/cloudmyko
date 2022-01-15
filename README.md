@@ -1,4 +1,5 @@
 <h2> Hi, I am Monzo! <img src="https://media.giphy.com/media/l1J9MU7JDGBu8VQwU/giphy.gif" width="50"></h2>
+<p>My real name is Michael... but call me Monzo.</p>
 <img align='right' src="https://media.giphy.com/media/l1J9MU7JDGBu8VQwU/giphy.gif" width="230">
 <p><em>Student at <a href="https://ernestbevin.london/">Ernest Bevin College</a>
 </br>Aspring Computer Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
