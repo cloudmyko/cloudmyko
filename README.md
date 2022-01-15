@@ -17,7 +17,7 @@ def monzo(weeb):
   GCSEs = Computer Science | Higher Maths | Triple Science ...
   interests = Anime | Gaming | Football | Music
 ```
-
+[![Monzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysmonzo)](https://github.com/alwaysmonzo/github-readme-stats)
 
 ---
 
