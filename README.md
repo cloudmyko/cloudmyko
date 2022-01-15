@@ -4,7 +4,7 @@
 </br>Aspring Computer Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: alwaysmonzo](https://img.shields.io/twitter/follow/alwaysmonzo?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter: alwaysmonzo](https://img.shields.io/twitter/follow/alwaysmonzo?style=social)](https://twitter.com/alwaysmonzo)
 [![GitHub alwaysmonzo](https://img.shields.io/github/followers/alwaysmonzo?label=follow&style=social)](https://github.com/alwaysmonzo)
 
 
