@@ -9,7 +9,7 @@
 [![GitHub alwaysmonzo](https://img.shields.io/github/followers/alwaysmonzo?label=follow&style=social)](https://github.com/alwaysmonzo)
 
 
-### A little more about me...  <img src="https://media.giphy.com/media/J4hEA5xCSDWyFmSN69/giphy.gif" width="50" height='50' margin=-10px> 
+### A little more about me... 
 
 ```python
 def monzo(weeb):
