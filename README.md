@@ -17,7 +17,7 @@ def monzo(nerd):
   subjects = Computer Science | Higher Maths | Triple Science ...
   interests = Anime | Games | Books
 ```
-[Monzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysmonzo&theme=dark&show_icons=true)
+[![Monzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysmonzo&theme=dark&show_icons=true)
 
 ---
 
