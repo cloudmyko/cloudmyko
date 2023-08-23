@@ -1,5 +1,5 @@
 <h2> Hi, I am Monzo!</h2>
-<p><em>Student at <a href="https://ernestbevin.london/">Ernest Bevin College</a>
+<p><em>Former Student at <a href="https://ernestbevin.london/">Ernest Bevin College</a>
 </br>Aspring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
