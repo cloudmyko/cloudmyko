@@ -1,24 +1,20 @@
 <h2> Hi, I am Monzo!</h2>
 <p><em>Student at <a href="https://ernestbevin.london/">Ernest Bevin College</a>
-</br>Aspring Computer Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</br>Aspring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
-[![Twitter: alwaysmonzo](https://img.shields.io/twitter/follow/alwaysmonzo?style=social)](https://twitter.com/alwaysmonzo)
-[![GitHub alwaysmonzo](https://img.shields.io/github/followers/alwaysmonzo?label=follow&style=social)](https://github.com/alwaysmonzo)
-
 
 ### A little more about me... 
 
 ```python
-def monzo(nerd):
-  form = Year 11
-  languages = Python | Bit of JS | Some C#
+def maiko(🐐):
+  age = 16
+  languages = Python | Bit of JS | Some C# | HTML | CSS
   subjects = Computer Science | Higher Maths | Triple Science ...
   interests = Anime | Games | Books
 ```
-![Monzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysmonzo&theme=dracula&show_icons=true)
+![Maiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudmyko&theme=dracula&show_icons=true)
 
 ---
 
-⭐️ From [@alwaysmonzo](https://github.com/alwaysmonzo)
+⭐️ From [@cloudmyko](https://github.com/cloudmyko)
 
