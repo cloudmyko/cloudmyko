@@ -8,7 +8,7 @@
 ```python
 def maiko(🐐):
   age = 18
-  languages = Python | C++ | HTML | CSS
+  languages = Python | C++ 
   subjects = Computer Science | Maths | Psychology ...
   interests = Manga | Music 
 ```
