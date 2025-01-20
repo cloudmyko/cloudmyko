@@ -3,8 +3,6 @@
 </br>Aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### A little more about me... 
-
 ```python
 def maiko(🐐):
   age = 18
