@@ -7,10 +7,9 @@ def maiko():
   age = 18
   languages = Python | C++ 
   subjects = Computer Science | Maths | Psychology ...
-  interests = Manga | Music 
+  interests = Fashion| Manga | Music 
 ```
 ![Maiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudmyko&theme=react&show_icons=true)
 
----
 
 
