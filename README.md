@@ -9,7 +9,7 @@ def maiko(🐐):
   subjects = Computer Science | Maths | Psychology ...
   interests = Manga | Music 
 ```
-![Maiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudmyko&theme=dracula&show_icons=true)
+![Maiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudmyko&theme=react&show_icons=true)
 
 ---
 
