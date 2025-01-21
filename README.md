@@ -1,4 +1,3 @@
-<h2>michael kodom</h2>
 <p><em>Former Student at <a href="https://ernestbevin.london/">Ernest Bevin Academy</a>
 </br>Aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -14,5 +13,4 @@ def maiko(🐐):
 
 ---
 
-⭐️ From [@cloudmyko](https://github.com/cloudmyko)
 
