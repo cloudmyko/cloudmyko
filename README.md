@@ -3,7 +3,7 @@
 </em></p>
 
 ```python
-def maiko(🐐):
+def maiko():
   age = 18
   languages = Python | C++ 
   subjects = Computer Science | Maths | Psychology ...
