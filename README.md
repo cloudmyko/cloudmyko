@@ -5,8 +5,7 @@
 def michael():
   age = 19
   languages = C++ 
-  subjects = Computer Science 
-  interests = Fashion| Manga | Music 
+  Computer Science First Year
 ```
 ![Maiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudmyko&theme=great-gatsby&show_icons=true)
 
